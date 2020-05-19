@@ -10,14 +10,14 @@ The data was collected via door-to-door survey collection in all hostels of **II
 * **branch**: The engineering streams at IIT Guwahati University.
   * CS: Computer Science
   * MC: Mathematics & Computing
-..* EEE/ECE: Electrical Engineering
-..* ME: Mechanical Engineering
-..* CL: Chemical Engineering
-..* CE: Civil Enginering
-..* EP: Engineering Physics
-..* CST: Chemical Science & Technology
-..* BSBE: Bioscience & Biotechnology Engineering
-..* Design: Bachelor of Design
+  * EEE/ECE: Electrical Engineering
+  * ME: Mechanical Engineering
+  * CL: Chemical Engineering
+  * CE: Civil Enginering
+  * EP: Engineering Physics
+  * CST: Chemical Science & Technology
+  * BSBE: Bioscience & Biotechnology Engineering
+  * Design: Bachelor of Design
 * **dropper**: Yes/No. Many students entering into IIT Guwahati drop one year at +2 level to prepare for IIT Joint Entrance Examination.
 * **tenth_board**: State/CBSE/ICSE. Different Educational Boards people opt during 10th standard.
 * **twelvth_board**: State/CBSE/ICSE. Different Educational Boards people opt during 12th standard.
@@ -28,36 +28,36 @@ The data was collected via door-to-door survey collection in all hostels of **II
 * **home_city**: Home city of student.
 * **fam_size**: The family size of the student.
 * **mom_ed**: Mom's Educational qualification.
-..* <10th Pass
-..* 10th Pass
-..* 12th Pass
-..* Graduate
-..* Post-Graduate
+  * <10th Pass
+  * 10th Pass
+  * 12th Pass
+  * Graduate
+  * Post-Graduate
 * **dad_ed**: Dad's Educational qualification.
-..* <10th Pass
-..* 10th Pass
-..* 12th Pass
-..* Graduate
-..* Post-Graduate
+  * <10th Pass
+  * 10th Pass
+  * 12th Pass
+  * Graduate
+  * Post-Graduate
 * **mom_job**: Mom's Job
-..* Housewife
-..* Govt
-..* Technical
-..* Management & Finance
-..* Artist
-..* Law
-..* Business
-..* Medical
-..* Else
+  * Housewife
+  * Govt
+  * Technical
+  * Management & Finance
+  * Artist
+  * Law
+  * Business
+  * Medical
+  * Else
 * **dad_job**: Dad's Job
-..* Govt
-..* Technical
-..* Management & Finance
-..* Artist
-..* Law
-..* Business
-..* Medical
-..* Else
+  * Govt
+  * Technical
+  * Management & Finance
+  * Artist
+  * Law
+  * Business
+  * Medical
+  * Else
 * **study_time**: Average study time of students at campus (in hours)
 * **tech_clubs**: The technical clubs of campus of which the student is a part of.
 * **cult_clubs**: The cultural clubs of campus of which the student is a part of.
