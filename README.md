@@ -8,8 +8,8 @@ The data was collected via door-to-door survey collection in all hostels of **II
 ### Features Description:
 * **gender**: Male/Female
 * **branch**: The engineering streams at IIT Guwahati University.
-..* CS: Computer Science
-..* MC: Mathematics & Computing
+  * CS: Computer Science
+  * MC: Mathematics & Computing
 ..* EEE/ECE: Electrical Engineering
 ..* ME: Mechanical Engineering
 ..* CL: Chemical Engineering
